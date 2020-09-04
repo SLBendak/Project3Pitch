@@ -49,10 +49,10 @@ A user can save trails to their account.
 The user can see their favorite trails on their profile.
 
 ### Wireframes
-![WireFrames](Screen Shot 2020-09-04 at 2.25.18 PM.png)
+- ![image](Screenshot.png)
 
 
-Additional Technologies
+### Additional Technologies
 TrailAPI, possibly GoogleMaps API, MERN auth
 
 ### Work Allocation
